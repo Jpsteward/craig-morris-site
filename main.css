@@ -1,0 +1,41 @@
+.head{
+       	border-bottom: black solid 1px;
+        background-color: white;
+        opacity:0.9;
+        }
+
+ .main{
+      height: 150px;
+      width: 400px;
+      margin-bottom: 50px;
+       }
+
+  .foot{
+       	margin:70px;
+       	border:1px solid black;
+       }
+
+    .footleft{
+            text-align: left;
+            }     
+
+   .footcentre{
+               text-align: center; 
+              }   
+
+     #back{
+         background-image: url(waterimages.jpg);
+         background-repeat: no-repeat;
+         background-size: 100% 100%;
+        }         
+    .box{
+         background-color: white;
+         opacity:0.9;
+         margin-top: 30px;
+         border: solid grey 1px;
+        }    
+
+    .foot{
+            background-color: white;
+         opacity:0.9;
+    }    
