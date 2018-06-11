@@ -1,5 +1,5 @@
 .head{
-       	border-bottom: black solid 1px;
+       	border: black solid 1px;
         background-color: white;
         opacity:0.9;
         }
@@ -9,7 +9,10 @@
       width: 400px;
       margin-bottom: 50px;
        }
-
+   .gallary{
+            height: 50px;
+            width: 50px;
+           } 
   .foot{
        	margin:70px;
        	border:1px solid black;
@@ -27,15 +30,31 @@
          background-image: url(waterimages.jpg);
          background-repeat: no-repeat;
          background-size: 100% 100%;
-        }         
+        } 
+
     .box{
          background-color: white;
          opacity:0.9;
-         margin-top: 30px;
+         margin: 30px;
          border: solid grey 1px;
+         padding: 20px;
         }    
 
     .foot{
             background-color: white;
-         opacity:0.9;
+            opacity:0.9;
+         }    
+
+    .policy{
+             margin:50px;
+             padding: 20px;
+             border-radius: 25px;
+           }
+    .img{
+          height: 150px;
+          width: 150px;
     }    
+
+    .about{
+      width: 250px
+    }   
