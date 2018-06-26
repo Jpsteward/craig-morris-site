@@ -1,6 +1,6 @@
 .head{
        	border: black solid 1px;
-        background-color: white;
+        background-color: #5dbcd2;
         opacity:0.9;
         }
 
@@ -38,6 +38,7 @@
          margin: 30px;
          border: solid grey 1px;
          padding: 20px;
+         border-radius: 25px;
         }    
 
     .foot{
@@ -58,3 +59,22 @@
     .about{
       width: 250px
     }   
+
+   .gallary{
+        height:250px;
+        width: 250px;
+           } 
+   .header{
+        border: black solid 1px;
+        background-color:white;
+        opacity:0.9;
+        }
+    .phone{
+          float: right;
+        }
+
+        .backcolor{
+          background-color: #5dbcd2;
+          opacity:1;
+
+        }
